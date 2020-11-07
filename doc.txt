@@ -1,0 +1,6 @@
+Context -> it is an object passed to every resolver
+    ( req , res ) => { //you can mutate it }
+
+
+todo ->
+    error formatting
